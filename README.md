@@ -27,8 +27,16 @@ ___
 ___
 
 #### Usage ####
+**Data can be querired by:**
+* Severity (low -> Critical)
+* CVE ("CVE-####-####")
+* AccessComplexity (Low -> High)
+* VulnerabilityType (InputValidation, DesignError, Other, BufferOverflow, AccessValidation, RaceCondition)
+* SourcesAvailable (i.e. ExploitDB, ICS-Cert, NIST, etc.)
+* PublishedDate
 
-![](https://i.imgur.com/SK2rfMK.png)
+This will search for **High** Vulnerabilities in **Chrome** starting Year **2018** with **Sources** and output report in **XML**
+![](https://i.imgur.com/wpxQ2VH.png)
 
 ___
 
