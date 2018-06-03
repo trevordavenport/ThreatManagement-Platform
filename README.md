@@ -6,7 +6,6 @@ Threat Management Data and Metrics Tool
 ```
 Author: Trevor Davenport
 ```
-
 #### Background ####
 ```
   Vulnerability Data: Pulled from multiple sources (including private repos)
@@ -26,7 +25,7 @@ ___
 ```
 ___
 
-#### Usage ####
+### Usage ###
 **Data can be querired by:**
 * Severity (low -> Critical)
 * CVE ("CVE-####-####")
