@@ -34,24 +34,24 @@ ___
 
 ### Vulnerability Platform ###
 #### Threat Data Example ####
- *Data Available by the platform
+ *Data Available by the platform*
 
 ![](https://i.imgur.com/KORZnuk.png)
 
 
- *Verbose Vulnerability Data
+ *Verbose Vulnerability Data*
 ![](https://i.imgur.com/HWFL0Ji.png)
 
- *CVSS Data Imports
+ *CVSS Data Imports*
 ![](https://i.imgur.com/B46XBKU.png)
 
 ### Summary of Threat Data ###
- *Data Organized by Title, Abstract, Severity, and Published Date 
+ *Data Organized by Title, Abstract, Severity, and Published Date*
 ![](https://i.imgur.com/cuqX1q9.png)
 
 
 ### Verbose Vulnerability Data ###
- *Verbose Queryable fields
+ *Verbose Queryable fields*
 > Published Date, First Published, Severity, Priority, Title, CVE(s), Exploitability, Access Vector, Access Complexity, Authentication, Vulnerbility Type, CPE URi, Abstract, Version Summary, Sources name, Sources Date, Sources Last Updated, Sources URL
 ![](https://i.imgur.com/fsIWZhr.png)
  
